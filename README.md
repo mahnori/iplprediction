@@ -9,10 +9,6 @@
 * SVR
 * Decision Tree Regressor
 
-**Hyperparamter Optimization:**
-
-Used optuna for paramter optimization.
-
 **Dataset:**
 
 The dataset comprises of over by over details of matches and runs from 2008 to 2020.
